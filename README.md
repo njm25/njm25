@@ -4,29 +4,19 @@
 
 **Full-Stack Developer**
 
-[![Portfolio](https://img.shields.io/badge/nico.ac-Portfolio-111111?style=for-the-badge)](https://nico.ac)
+[![Portfolio](https://img.shields.io/badge/nico.ac-PORTFOLIO-111111?style=for-the-badge)](https://nico.ac)
 
 <br><br>
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,java,python,cpp,nodejs,mysql,aws,docker,git" />
 
-<br><br>
-
 </div>
+
+<br>
 
 ## Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### Nico's Jobs
-
-<a href="https://nicosjobs.com">
-  <img src="./assets/nicosjobs.png" width="100%" alt="Nico's Jobs" />
-</a>
-
-<br>
 
 Full-stack job aggregation platform.
 
@@ -34,16 +24,9 @@ Full-stack job aggregation platform.
 
 **[nicosjobs.com →](https://nicosjobs.com)**
 
-</td>
-<td width="50%" valign="top">
+<br>
 
 ### The Film Archive
-
-<a href="https://thefilmarchive.org">
-  <img src="./assets/filmarchive.png" width="100%" alt="The Film Archive" />
-</a>
-
-<br>
 
 Film discovery and archival platform.
 
@@ -51,14 +34,19 @@ Film discovery and archival platform.
 
 **[thefilmarchive.org →](https://thefilmarchive.org)**
 
-</td>
-</tr>
-</table>
+<br><br>
 
 <div align="center">
 
+<img src="https://streak-stats.demolab.com?user=njm25&theme=transparent&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=njm25&theme=transparent" />
+
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=njm25&hide_border=true&theme=transparent" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=njm25&theme=transparent" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=njm25&theme=transparent" />
 
 </div>
