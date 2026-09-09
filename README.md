@@ -8,8 +8,6 @@
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,java,python,cpp,nodejs,mysql,aws,docker,git" />
-
 </div>
 
 <br><br>
