@@ -12,28 +12,6 @@
 
 </div>
 
-<br>
-
-## Featured Projects
-
-### Nico's Jobs
-
-Full-stack job aggregation platform.
-
-`Angular` `ASP.NET` `SQL Server` `AWS`
-
-**[nicosjobs.com →](https://nicosjobs.com)**
-
-<br>
-
-### The Film Archive
-
-Film discovery and archival platform.
-
-`.NET` `Angular` `SQL` `AWS`
-
-**[thefilmarchive.org →](https://thefilmarchive.org)**
-
 <br><br>
 
 <div align="center">
