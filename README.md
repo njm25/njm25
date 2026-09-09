@@ -2,59 +2,63 @@
 
 # Nico Milette
 
-### Full-Stack Developer
+**Full-Stack Developer**
 
-[![Portfolio](https://img.shields.io/badge/nico.ac-Portfolio-black?style=for-the-badge)](https://nico.ac)
+[![Portfolio](https://img.shields.io/badge/nico.ac-Portfolio-111111?style=for-the-badge)](https://nico.ac)
 
-<br>
+<br><br>
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,java,python,cpp,nodejs,mysql,aws,docker,git" />
 
 <br><br>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=njm25&show_icons=true&hide_border=true&theme=transparent" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=njm25&layout=compact&hide_border=true&theme=transparent" />
-
 </div>
 
----
+## Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## Projects
+### Nico's Jobs
 
-<a href="https://thefilmarchive.org">
-  <img src="https://img.shields.io/badge/The_Film_Archive-Live_Site-222?style=for-the-badge" />
+<a href="https://nicosjobs.com">
+  <img src="./assets/nicosjobs.png" width="100%" alt="Nico's Jobs" />
 </a>
-
-<a href="https://github.com/njm25/TheFilmArchive">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=njm25&repo=TheFilmArchive&theme=transparent&hide_border=true" />
-</a>
-
-<a href="https://github.com/njm25/NCCasino">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=njm25&repo=NCCasino&theme=transparent&hide_border=true" />
-</a>
-
-<a href="https://github.com/njm25/P2PFileSharing">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=njm25&repo=P2PFileSharing&theme=transparent&hide_border=true" />
-</a>
-
-<a href="https://github.com/njm25/videoconverter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=njm25&repo=videoconverter&theme=transparent&hide_border=true" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### Building
-
-.NET · Angular · SQL · AWS · automation · weird side projects
 
 <br>
 
-**[nico.ac](https://nico.ac)**
+Full-stack job aggregation platform.
+
+`Angular` `ASP.NET` `SQL Server` `AWS`
+
+**[nicosjobs.com →](https://nicosjobs.com)**
+
+</td>
+<td width="50%" valign="top">
+
+### The Film Archive
+
+<a href="https://thefilmarchive.org">
+  <img src="./assets/filmarchive.png" width="100%" alt="The Film Archive" />
+</a>
+
+<br>
+
+Film discovery and archival platform.
+
+`.NET` `Angular` `SQL` `AWS`
+
+**[thefilmarchive.org →](https://thefilmarchive.org)**
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=njm25&hide_border=true&theme=transparent" />
 
 </div>
